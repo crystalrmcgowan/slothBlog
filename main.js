@@ -14,5 +14,3 @@ const blogPost = {
     url: "https://en.wikipedia.org/wiki/Sloth"
   }
 }
-
-// Start Editing Here
